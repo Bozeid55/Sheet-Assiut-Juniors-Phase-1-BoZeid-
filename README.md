@@ -1,7 +1,7 @@
 --------------------------------------------------
 My own "Sheet-Assiut-Juniors-Phase-1" solutions
 --------------------------------------------------
--Static Range Queries:
+- Static Range Queries:
 --> [ Prefix sum (1D , 2D , 3D), Frequency Array , Partial Sum (1D , 2D)]
 
 - STLS:
